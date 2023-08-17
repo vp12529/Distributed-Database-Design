@@ -1,2 +1,2 @@
 # Distributed-Database-Design
-Developed a smart contract using Solidity to facilitate the selection of the best charging station based on electric vehicle parameters.
+Logical Design, Fragmentation, Allocation and Physical Design of DDBS
